@@ -1,0 +1,7 @@
+#Fri Dec 02 15:04:01 PST 2016
+base.0=C\:\\Users\\Paul\\AndroidstudioProjects\\GwEstimator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d303c308ec718d72e973ef09258954744582d00
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Paul\\AndroidstudioProjects\\GwEstimator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_941cbffebaf3a727707ea5eedbbe99733d51fc9b\\classes.dex
+base.1=C\:\\Users\\Paul\\AndroidstudioProjects\\GwEstimator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_941cbffebaf3a727707ea5eedbbe99733d51fc9b
+file.0=C\:\\Users\\Paul\\AndroidstudioProjects\\GwEstimator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3d303c308ec718d72e973ef09258954744582d00\\classes.dex

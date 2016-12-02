@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Paul\AndroidstudioProjects\GwEstimator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21cafa0de41d148921277d5893a539a64ee4d41a">
+        <dex dex="C:\Users\Paul\AndroidstudioProjects\GwEstimator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_941cbffebaf3a727707ea5eedbbe99733d51fc9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Paul\AndroidstudioProjects\GwEstimator\app\libs\jsoup-1.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5794fa7847465283436bd9843045033971d0b9b">
+        <dex dex="C:\Users\Paul\AndroidstudioProjects\GwEstimator\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.6.3_dc4f320ee9b569d2b3e9fde74249bb065c8add51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Paul\AndroidstudioProjects\GwEstimator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36eaa6c830108903dda936233be0e614c50794af">
+        <dex dex="C:\Users\Paul\AndroidstudioProjects\GwEstimator\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3d303c308ec718d72e973ef09258954744582d00\classes.dex" />
+    </item>
+
+</items>

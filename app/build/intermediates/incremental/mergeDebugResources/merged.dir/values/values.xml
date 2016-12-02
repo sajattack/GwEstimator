@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">GwEstimator</string>
+    <string name="app_name">GwEstimator</string>
+    <string name="button_label">Start Searching</string>
+    <string name="image_desc">image</string>
+    <string name="search_hint">Search the Kamadan Trade Channel</string>
+</resources>
